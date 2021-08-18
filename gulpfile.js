@@ -26,9 +26,9 @@ function browsersyncServe(run){
   });
   run();
 }
-function browsersyncReload(cb){
+function browsersyncReload(run){
   browsersync.reload();
-  cb();
+  run();
 }
 
 // Watch Task

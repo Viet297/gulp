@@ -1,0 +1,21 @@
+body{
+  background-image: url('/img/background.jpg');
+  background-size: cover;
+}
+h1{
+  font-family: 'Lora', serif;
+  font-size: 60px;
+  text-align: center;
+  color: #ffffff;
+}
+.box{
+  position: relative;
+  background-color: #9e6464;
+  color: #ffffff;
+  width: 450px;
+  height: 500px;
+  color:aqua;
+  border-radius: 12px;
+  padding: 64px;
+  font-size: 24px;
+}
